@@ -153,6 +153,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 10px 0px;
 }
 
 
@@ -163,13 +164,17 @@ footer {
 
 .footer__links {
     margin-bottom: 32px;
+    
 
 }
 
 .footer__link {
-    padding: 0 16px;
+    padding: 0px 16px;
 }
 
+.copyright {
+    padding: 20px 0px 0px 0px;
+}
 @media (max-width: 576px) {
 
     .logo {
