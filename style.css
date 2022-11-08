@@ -169,3 +169,18 @@ footer {
 .footer__link {
     padding: 0 16px;
 }
+
+@media (max-width: 576px) {
+
+    .logo {
+        width: 200px;
+    }
+
+    .section__description--para {
+
+        font-size: 10px;
+        line-height: 1.5;
+    }
+    
+
+}
